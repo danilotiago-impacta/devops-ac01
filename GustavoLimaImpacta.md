@@ -1,0 +1,2 @@
+- Análise de Sistemas
+- Empresas com sistemas de gestão Contábil ou da area de saúde
